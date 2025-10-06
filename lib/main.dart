@@ -58,12 +58,12 @@ class MyApp extends StatelessWidget {
     // Text section widget
     Widget textSection = Container(
       padding: const EdgeInsets.all(32),
-      child: const Text(
+            child: const Text(
         'Banda Neira adalah salah satu pulau di Kepulauan Banda, Maluku, Indonesia. '
         'Pulau ini terkenal dengan keindahan alam bawah lautnya dan sejarah rempah-rempah. '
-        'Tempat ini sangat cocok untuk wisata sejarah dan snorkeling. '
-        'Nama: aiida\nNIM: 231760029\n'
-        'Selamat mengerjakan 🙂.',
+        'Tempat ini sangat cocok untuk wisata sejarah dan snorkeling.\n'
+        'Nama : aiida\n'
+        'NIM  : 2341760029',
         softWrap: true,
       ),
     );
